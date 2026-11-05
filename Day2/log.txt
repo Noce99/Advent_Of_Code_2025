@@ -1,0 +1,7605 @@
+[132454; 182049, 6]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 13
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 18
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 14
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 15
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 16
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 17
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 132
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 3
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 182
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 8
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 133
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 3
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 134
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 3
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 135
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 3
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 136
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 3
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 137
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 3
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 138
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 3
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 139
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 3
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 140
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 4
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 141
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 4
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 142
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 4
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 143
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 4
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 144
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 4
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 145
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 4
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 146
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 4
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 147
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 4
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 148
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 4
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 149
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 4
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 150
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 5
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 151
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 5
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 152
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 5
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 153
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 5
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 154
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 5
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 155
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 5
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 156
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 157
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 5
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 158
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 5
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 159
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 5
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 160
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 6
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 161
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 6
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 162
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 6
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 163
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 6
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 164
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 6
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 165
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 166
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 6
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 167
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 6
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 168
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 6
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 169
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 6
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 170
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 7
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 171
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 7
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 172
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 7
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 173
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 7
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 174
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 7
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 175
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 7
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 176
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 7
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 177
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 7
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 178
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 7
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 179
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 7
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 180
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 8
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 181
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 8
+digit = 1
+all_the_same = false
+Invalid IDS = [181818, 141414, 151515, 161616, 171717, 133133, 134134, 135135, 136136, 137137, 138138, 139139, 140140, 141141, 142142, 143143, 144144, 145145, 146146, 147147, 148148, 149149, 150150, 151151, 152152, 153153, 154154, 155155, 156156, 157157, 158158, 159159, 160160, 161161, 162162, 163163, 164164, 165165, 166166, 167167, 168168, 169169, 170170, 171171, 172172, 173173, 174174, 175175, 176176, 177177, 178178, 179179, 180180, 181181]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[42382932; 42449104, 8]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4
+@@@@@@@@@@@@@@@@@@@@
+Let's check 42
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 42
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4238
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 4
+digit = 4
+digit = 2
+digit = 3
+digit = 8
+all_the_same = false
+Period that I'm checking: 42 of 2 digits!
+how_many_periods = 2
+digit = 4
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4244
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 4
+digit = 4
+digit = 2
+digit = 4
+digit = 4
+all_the_same = false
+Period that I'm checking: 42 of 2 digits!
+how_many_periods = 2
+digit = 4
+digit = 4
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4239
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 4
+digit = 4
+digit = 2
+digit = 3
+digit = 9
+all_the_same = false
+Period that I'm checking: 42 of 2 digits!
+how_many_periods = 2
+digit = 4
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4240
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 4
+digit = 4
+digit = 2
+digit = 4
+digit = 0
+all_the_same = false
+Period that I'm checking: 42 of 2 digits!
+how_many_periods = 2
+digit = 4
+digit = 4
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4241
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 4
+digit = 4
+digit = 2
+digit = 4
+digit = 1
+all_the_same = false
+Period that I'm checking: 42 of 2 digits!
+how_many_periods = 2
+digit = 4
+digit = 4
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4242
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 4
+digit = 4
+digit = 2
+digit = 4
+digit = 2
+all_the_same = false
+Period that I'm checking: 42 of 2 digits!
+how_many_periods = 2
+digit = 4
+digit = 4
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4243
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 4
+digit = 4
+digit = 2
+digit = 4
+digit = 3
+all_the_same = false
+Period that I'm checking: 42 of 2 digits!
+how_many_periods = 2
+digit = 4
+digit = 4
+all_the_same = true
+Invalid IDS = [42424242, 42384238, 42394239]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[685933; 804865, 6]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 8
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7
+@@@@@@@@@@@@@@@@@@@@
+Let's check 68
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 80
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 2
+digit = 8
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 69
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 70
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 71
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 72
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 73
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 74
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 75
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 76
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 77
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 78
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 79
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 685
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 8
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 804
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 0
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 686
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 8
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 687
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 8
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 688
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 8
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 689
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 8
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 690
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 9
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 691
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 9
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 692
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 9
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 693
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 9
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 694
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 9
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 695
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 9
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 696
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 9
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 697
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 9
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 698
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 9
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 699
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 9
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 700
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 0
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 701
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 0
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 702
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 0
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 703
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 0
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 704
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 0
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 705
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 0
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 706
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 0
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 707
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 0
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 708
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 0
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 709
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 0
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 710
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 1
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 711
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 1
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 712
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 1
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 713
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 1
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 714
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 1
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 715
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 1
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 716
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 1
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 717
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 1
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 718
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 1
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 719
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 1
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 720
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 2
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 721
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 2
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 722
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 2
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 723
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 2
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 724
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 2
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 725
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 2
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 726
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 2
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 727
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 2
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 728
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 2
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 729
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 2
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 730
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 3
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 731
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 3
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 732
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 3
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 733
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 3
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 734
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 3
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 735
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 3
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 736
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 3
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 737
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 3
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 738
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 3
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 739
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 3
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 740
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 4
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 741
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 4
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 742
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 4
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 743
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 4
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 744
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 4
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 745
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 4
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 746
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 4
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 747
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 4
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 748
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 4
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 749
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 4
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 750
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 5
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 751
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 5
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 752
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 5
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 753
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 5
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 754
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 5
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 755
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 5
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 756
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 757
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 5
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 758
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 5
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 759
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 5
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 760
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 6
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 761
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 6
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 762
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 6
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 763
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 6
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 764
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 6
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 765
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 766
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 6
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 767
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 6
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 768
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 6
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 769
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 6
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 770
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 7
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 771
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 7
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 772
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 7
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 773
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 7
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 774
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 7
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 775
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 7
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 776
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 7
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 777
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 778
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 7
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 779
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 7
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 780
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 8
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 781
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 8
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 782
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 8
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 783
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 8
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 784
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 8
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 785
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 8
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 786
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 8
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 787
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 8
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 788
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 8
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 789
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 8
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 790
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 9
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 791
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 9
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 792
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 9
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 793
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 9
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 794
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 9
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 795
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 9
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 796
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 9
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 797
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 9
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 798
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 9
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 799
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 3
+digit = 7
+digit = 9
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 800
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 0
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 801
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 0
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 802
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 0
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 803
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 0
+digit = 3
+all_the_same = false
+Invalid IDS = [777777, 686868, 696969, 707070, 717171, 727272, 737373, 747474, 757575, 767676, 787878, 797979, 804804, 686686, 687687, 688688, 689689, 690690, 691691, 692692, 693693, 694694, 695695, 696696, 697697, 698698, 699699, 700700, 701701, 702702, 703703, 704704, 705705, 706706, 707707, 708708, 709709, 710710, 711711, 712712, 713713, 714714, 715715, 716716, 717717, 718718, 719719, 720720, 721721, 722722, 723723, 724724, 725725, 726726, 727727, 728728, 729729, 730730, 731731, 732732, 733733, 734734, 735735, 736736, 737737, 738738, 739739, 740740, 741741, 742742, 743743, 744744, 745745, 746746, 747747, 748748, 749749, 750750, 751751, 752752, 753753, 754754, 755755, 756756, 757757, 758758, 759759, 760760, 761761, 762762, 763763, 764764, 765765, 766766, 767767, 768768, 769769, 770770, 771771, 772772, 773773, 774774, 775775, 776776, 778778, 779779, 780780, 781781, 782782, 783783, 784784, 785785, 786786, 787787, 788788, 789789, 790790, 791791, 792792, 793793, 794794, 795795, 796796, 797797, 798798, 799799, 800800, 801801, 802802, 803803]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[5330496; 5488118, 7]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5
+Invalid IDS = []
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[21; 41, 2]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 2
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4
+@@@@@@@@@@@@@@@@@@@@
+Let's check 3
+Invalid IDS = [22, 33]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[289741; 376488, 6]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 2
+@@@@@@@@@@@@@@@@@@@@
+Let's check 3
+@@@@@@@@@@@@@@@@@@@@
+Let's check 28
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 37
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 29
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 30
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 31
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 32
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 33
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 3
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 34
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 35
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 36
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 289
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 8
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 376
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 7
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 290
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 9
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 291
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 9
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 292
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 9
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 293
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 9
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 294
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 9
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 295
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 9
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 296
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 9
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 297
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 9
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 298
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 9
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 299
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 9
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 300
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 0
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 301
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 0
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 302
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 0
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 303
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 0
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 304
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 0
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 305
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 0
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 306
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 0
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 307
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 0
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 308
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 0
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 309
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 0
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 310
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 1
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 311
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 1
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 312
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 1
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 313
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 1
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 314
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 1
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 315
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 1
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 316
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 1
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 317
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 1
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 318
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 1
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 319
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 1
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 320
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 2
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 321
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 2
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 322
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 2
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 323
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 2
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 324
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 2
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 325
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 2
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 326
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 2
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 327
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 2
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 328
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 2
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 329
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 2
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 330
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 3
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 331
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 3
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 332
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 3
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 333
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 3
+digit = 3
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 334
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 3
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 335
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 3
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 336
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 3
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 337
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 3
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 338
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 3
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 339
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 3
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 340
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 4
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 341
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 4
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 342
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 4
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 343
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 4
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 344
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 4
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 345
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 4
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 346
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 4
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 347
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 4
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 348
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 4
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 349
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 4
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 350
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 5
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 351
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 5
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 352
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 5
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 353
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 5
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 354
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 5
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 355
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 5
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 356
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 357
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 5
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 358
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 5
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 359
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 5
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 360
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 6
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 361
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 6
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 362
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 6
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 363
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 6
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 364
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 6
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 365
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 366
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 6
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 367
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 6
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 368
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 6
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 369
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 6
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 370
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 7
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 371
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 7
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 372
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 7
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 373
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 7
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 374
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 7
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 375
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 3
+digit = 3
+digit = 7
+digit = 5
+all_the_same = false
+Invalid IDS = [333333, 373737, 292929, 303030, 313131, 323232, 343434, 353535, 363636, 376376, 290290, 291291, 292292, 293293, 294294, 295295, 296296, 297297, 298298, 299299, 300300, 301301, 302302, 303303, 304304, 305305, 306306, 307307, 308308, 309309, 310310, 311311, 312312, 313313, 314314, 315315, 316316, 317317, 318318, 319319, 320320, 321321, 322322, 323323, 324324, 325325, 326326, 327327, 328328, 329329, 330330, 331331, 332332, 334334, 335335, 336336, 337337, 338338, 339339, 340340, 341341, 342342, 343343, 344344, 345345, 346346, 347347, 348348, 349349, 350350, 351351, 352352, 353353, 354354, 355355, 356356, 357357, 358358, 359359, 360360, 361361, 362362, 363363, 364364, 365365, 366366, 367367, 368368, 369369, 370370, 371371, 372372, 373373, 374374, 375375]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[220191; 245907, 6]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 2
+@@@@@@@@@@@@@@@@@@@@
+Let's check 2
+@@@@@@@@@@@@@@@@@@@@
+Let's check 22
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 2
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 24
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 23
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 220
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 2
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 245
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 4
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 221
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 2
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 222
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 2
+digit = 2
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 223
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 2
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 224
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 2
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 225
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 2
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 226
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 2
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 227
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 2
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 228
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 2
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 229
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 2
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 230
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 3
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 231
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 3
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 232
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 3
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 233
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 3
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 234
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 3
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 235
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 3
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 236
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 3
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 237
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 3
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 238
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 3
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 239
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 3
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 240
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 4
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 241
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 4
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 242
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 4
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 243
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 4
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 244
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 3
+digit = 2
+digit = 4
+digit = 4
+all_the_same = false
+Invalid IDS = [222222, 242424, 232323, 220220, 245245, 221221, 223223, 224224, 225225, 226226, 227227, 228228, 229229, 230230, 231231, 232232, 233233, 234234, 235235, 236236, 237237, 238238, 239239, 240240, 241241, 242242, 243243, 244244]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[49; 70, 2]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+Invalid IDS = [55, 66]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[6438484; 6636872, 7]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+Invalid IDS = []
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[2; 9, 1]
+Invalid IDS = []
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[10; 20, 2]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 2
+Invalid IDS = [11]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[6666660113; 6666682086, 10]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 66
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 6
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 66
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 6
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 66666
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 5
+digit = 6
+digit = 6
+digit = 6
+digit = 6
+digit = 6
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 66666
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 5
+digit = 6
+digit = 6
+digit = 6
+digit = 6
+digit = 6
+all_the_same = true
+Invalid IDS = [6666666666]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[173; 267, 3]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 2
+Invalid IDS = [222]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[59559721; 59667224, 8]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5
+@@@@@@@@@@@@@@@@@@@@
+Let's check 59
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 59
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5955
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 4
+digit = 5
+digit = 9
+digit = 5
+digit = 5
+all_the_same = false
+Period that I'm checking: 59 of 2 digits!
+how_many_periods = 2
+digit = 5
+digit = 5
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5966
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 4
+digit = 5
+digit = 9
+digit = 6
+digit = 6
+all_the_same = false
+Period that I'm checking: 59 of 2 digits!
+how_many_periods = 2
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5956
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 4
+digit = 5
+digit = 9
+digit = 5
+digit = 6
+all_the_same = false
+Period that I'm checking: 59 of 2 digits!
+how_many_periods = 2
+digit = 5
+digit = 5
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5957
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 4
+digit = 5
+digit = 9
+digit = 5
+digit = 7
+all_the_same = false
+Period that I'm checking: 59 of 2 digits!
+how_many_periods = 2
+digit = 5
+digit = 5
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5958
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 4
+digit = 5
+digit = 9
+digit = 5
+digit = 8
+all_the_same = false
+Period that I'm checking: 59 of 2 digits!
+how_many_periods = 2
+digit = 5
+digit = 5
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5959
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 4
+digit = 5
+digit = 9
+digit = 5
+digit = 9
+all_the_same = false
+Period that I'm checking: 59 of 2 digits!
+how_many_periods = 2
+digit = 5
+digit = 5
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5960
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 4
+digit = 5
+digit = 9
+digit = 6
+digit = 0
+all_the_same = false
+Period that I'm checking: 59 of 2 digits!
+how_many_periods = 2
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5961
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 4
+digit = 5
+digit = 9
+digit = 6
+digit = 1
+all_the_same = false
+Period that I'm checking: 59 of 2 digits!
+how_many_periods = 2
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5962
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 4
+digit = 5
+digit = 9
+digit = 6
+digit = 2
+all_the_same = false
+Period that I'm checking: 59 of 2 digits!
+how_many_periods = 2
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5963
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 4
+digit = 5
+digit = 9
+digit = 6
+digit = 3
+all_the_same = false
+Period that I'm checking: 59 of 2 digits!
+how_many_periods = 2
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5964
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 4
+digit = 5
+digit = 9
+digit = 6
+digit = 4
+all_the_same = false
+Period that I'm checking: 59 of 2 digits!
+how_many_periods = 2
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5965
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 4
+digit = 5
+digit = 9
+digit = 6
+digit = 5
+all_the_same = false
+Period that I'm checking: 59 of 2 digits!
+how_many_periods = 2
+digit = 5
+digit = 6
+all_the_same = false
+Invalid IDS = [59595959, 59665966, 59605960, 59615961, 59625962, 59635963, 59645964, 59655965]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[307; 390, 3]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 3
+@@@@@@@@@@@@@@@@@@@@
+Let's check 3
+Invalid IDS = [333]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[2672163; 2807721, 7]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 2
+@@@@@@@@@@@@@@@@@@@@
+Let's check 2
+Invalid IDS = []
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[658272; 674230, 6]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 65
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 67
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 66
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 6
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 658
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 5
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 674
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 7
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 659
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 5
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 660
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 6
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 661
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 6
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 662
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 6
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 663
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 6
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 664
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 6
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 665
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 666
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 6
+digit = 6
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 667
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 6
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 668
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 6
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 669
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 6
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 670
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 7
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 671
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 7
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 672
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 7
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 673
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 7
+digit = 3
+all_the_same = false
+Invalid IDS = [666666, 658658, 659659, 660660, 661661, 662662, 663663, 664664, 665665, 667667, 668668, 669669, 670670, 671671, 672672, 673673]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[485679; 647207, 6]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5
+@@@@@@@@@@@@@@@@@@@@
+Let's check 48
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 64
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 49
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 50
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 51
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 52
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 53
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 54
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 55
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 5
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 56
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 57
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 58
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 59
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 60
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 61
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 62
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 63
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 485
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 8
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 647
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 4
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 486
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 8
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 487
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 8
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 488
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 8
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 489
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 8
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 490
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 9
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 491
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 9
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 492
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 9
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 493
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 9
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 494
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 9
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 495
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 9
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 496
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 9
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 497
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 9
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 498
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 9
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 499
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 9
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 500
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 0
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 501
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 0
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 502
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 0
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 503
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 0
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 504
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 0
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 505
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 0
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 506
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 0
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 507
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 0
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 508
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 0
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 509
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 0
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 510
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 1
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 511
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 1
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 512
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 1
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 513
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 1
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 514
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 1
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 515
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 1
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 516
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 1
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 517
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 1
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 518
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 1
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 519
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 1
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 520
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 2
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 521
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 2
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 522
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 2
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 523
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 2
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 524
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 2
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 525
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 2
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 526
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 2
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 527
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 2
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 528
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 2
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 529
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 2
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 530
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 3
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 531
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 3
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 532
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 3
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 533
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 3
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 534
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 3
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 535
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 3
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 536
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 3
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 537
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 3
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 538
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 3
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 539
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 3
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 540
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 4
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 541
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 4
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 542
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 4
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 543
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 4
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 544
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 4
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 545
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 4
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 546
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 4
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 547
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 4
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 548
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 4
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 549
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 4
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 550
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 5
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 551
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 5
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 552
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 5
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 553
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 5
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 554
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 5
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 555
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 5
+digit = 5
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 556
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 557
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 5
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 558
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 5
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 559
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 5
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 560
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 6
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 561
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 6
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 562
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 6
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 563
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 6
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 564
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 6
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 565
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 566
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 6
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 567
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 6
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 568
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 6
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 569
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 6
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 570
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 7
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 571
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 7
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 572
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 7
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 573
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 7
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 574
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 7
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 575
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 7
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 576
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 7
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 577
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 7
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 578
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 7
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 579
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 7
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 580
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 8
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 581
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 8
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 582
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 8
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 583
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 8
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 584
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 8
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 585
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 8
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 586
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 8
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 587
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 8
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 588
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 8
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 589
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 8
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 590
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 9
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 591
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 9
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 592
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 9
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 593
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 9
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 594
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 9
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 595
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 9
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 596
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 9
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 597
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 9
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 598
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 9
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 599
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 3
+digit = 5
+digit = 9
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 600
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 0
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 601
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 0
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 602
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 0
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 603
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 0
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 604
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 0
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 605
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 0
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 606
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 0
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 607
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 0
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 608
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 0
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 609
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 0
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 610
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 1
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 611
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 1
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 612
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 1
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 613
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 1
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 614
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 1
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 615
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 1
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 616
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 1
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 617
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 1
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 618
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 1
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 619
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 1
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 620
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 2
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 621
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 2
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 622
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 2
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 623
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 2
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 624
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 2
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 625
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 2
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 626
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 2
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 627
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 2
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 628
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 2
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 629
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 2
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 630
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 3
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 631
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 3
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 632
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 3
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 633
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 3
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 634
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 3
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 635
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 3
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 636
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 3
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 637
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 3
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 638
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 3
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 639
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 3
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 640
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 4
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 641
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 4
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 642
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 4
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 643
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 4
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 644
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 4
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 645
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 4
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 646
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 4
+digit = 6
+all_the_same = false
+Invalid IDS = [555555, 646464, 494949, 505050, 515151, 525252, 535353, 545454, 565656, 575757, 585858, 595959, 606060, 616161, 626262, 636363, 486486, 487487, 488488, 489489, 490490, 491491, 492492, 493493, 494494, 495495, 496496, 497497, 498498, 499499, 500500, 501501, 502502, 503503, 504504, 505505, 506506, 507507, 508508, 509509, 510510, 511511, 512512, 513513, 514514, 515515, 516516, 517517, 518518, 519519, 520520, 521521, 522522, 523523, 524524, 525525, 526526, 527527, 528528, 529529, 530530, 531531, 532532, 533533, 534534, 535535, 536536, 537537, 538538, 539539, 540540, 541541, 542542, 543543, 544544, 545545, 546546, 547547, 548548, 549549, 550550, 551551, 552552, 553553, 554554, 556556, 557557, 558558, 559559, 560560, 561561, 562562, 563563, 564564, 565565, 566566, 567567, 568568, 569569, 570570, 571571, 572572, 573573, 574574, 575575, 576576, 577577, 578578, 579579, 580580, 581581, 582582, 583583, 584584, 585585, 586586, 587587, 588588, 589589, 590590, 591591, 592592, 593593, 594594, 595595, 596596, 597597, 598598, 599599, 600600, 601601, 602602, 603603, 604604, 605605, 606606, 607607, 608608, 609609, 610610, 611611, 612612, 613613, 614614, 615615, 616616, 617617, 618618, 619619, 620620, 621621, 622622, 623623, 624624, 625625, 626626, 627627, 628628, 629629, 630630, 631631, 632632, 633633, 634634, 635635, 636636, 637637, 638638, 639639, 640640, 641641, 642642, 643643, 644644, 645645, 646646]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[429; 552, 3]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5
+Invalid IDS = [444]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[72678302; 72815786, 8]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7
+@@@@@@@@@@@@@@@@@@@@
+Let's check 72
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 72
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7267
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 6
+digit = 7
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7281
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 8
+digit = 1
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7268
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 6
+digit = 8
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7269
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 6
+digit = 9
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7270
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 7
+digit = 0
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7271
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 7
+digit = 1
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7272
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 7
+digit = 2
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7273
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 7
+digit = 3
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7274
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 7
+digit = 4
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7275
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 7
+digit = 5
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7276
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 7
+digit = 6
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7277
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 7
+digit = 7
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7278
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 7
+digit = 8
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7279
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 7
+digit = 9
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7280
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 4
+digit = 7
+digit = 2
+digit = 8
+digit = 0
+all_the_same = false
+Period that I'm checking: 72 of 2 digits!
+how_many_periods = 2
+digit = 7
+digit = 8
+all_the_same = false
+Invalid IDS = [72727272, 72687268, 72697269, 72807280]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[881990; 991937, 6]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 8
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9
+@@@@@@@@@@@@@@@@@@@@
+Let's check 88
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 2
+digit = 8
+digit = 8
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 99
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 9
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 89
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 2
+digit = 8
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 90
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 91
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 92
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 93
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 94
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 95
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 96
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 97
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 98
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 881
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 8
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 991
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 9
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 882
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 8
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 883
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 8
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 884
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 8
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 885
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 8
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 886
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 8
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 887
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 8
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 888
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 8
+digit = 8
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 889
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 8
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 890
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 9
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 891
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 9
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 892
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 9
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 893
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 9
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 894
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 9
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 895
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 9
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 896
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 9
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 897
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 9
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 898
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 9
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 899
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 3
+digit = 8
+digit = 9
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 900
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 0
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 901
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 0
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 902
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 0
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 903
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 0
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 904
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 0
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 905
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 0
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 906
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 0
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 907
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 0
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 908
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 0
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 909
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 0
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 910
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 1
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 911
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 1
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 912
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 1
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 913
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 1
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 914
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 1
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 915
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 1
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 916
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 1
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 917
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 1
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 918
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 1
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 919
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 1
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 920
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 2
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 921
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 2
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 922
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 2
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 923
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 2
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 924
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 2
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 925
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 2
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 926
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 2
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 927
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 2
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 928
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 2
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 929
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 2
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 930
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 3
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 931
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 3
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 932
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 3
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 933
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 3
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 934
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 3
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 935
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 3
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 936
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 3
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 937
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 3
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 938
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 3
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 939
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 3
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 940
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 4
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 941
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 4
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 942
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 4
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 943
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 4
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 944
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 4
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 945
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 4
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 946
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 4
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 947
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 4
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 948
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 4
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 949
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 4
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 950
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 5
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 951
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 5
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 952
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 5
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 953
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 5
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 954
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 5
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 955
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 5
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 956
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 957
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 5
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 958
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 5
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 959
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 5
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 960
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 6
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 961
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 6
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 962
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 6
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 963
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 6
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 964
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 6
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 965
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 966
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 6
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 967
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 6
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 968
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 6
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 969
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 6
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 970
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 7
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 971
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 7
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 972
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 7
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 973
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 7
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 974
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 7
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 975
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 7
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 976
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 7
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 977
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 7
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 978
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 7
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 979
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 7
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 980
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 8
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 981
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 8
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 982
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 8
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 983
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 8
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 984
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 8
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 985
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 8
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 986
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 8
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 987
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 8
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 988
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 8
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 989
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 8
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 990
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 3
+digit = 9
+digit = 9
+digit = 0
+all_the_same = false
+Invalid IDS = [888888, 898989, 909090, 919191, 929292, 939393, 949494, 959595, 969696, 979797, 989898, 882882, 883883, 884884, 885885, 886886, 887887, 889889, 890890, 891891, 892892, 893893, 894894, 895895, 896896, 897897, 898898, 899899, 900900, 901901, 902902, 903903, 904904, 905905, 906906, 907907, 908908, 909909, 910910, 911911, 912912, 913913, 914914, 915915, 916916, 917917, 918918, 919919, 920920, 921921, 922922, 923923, 924924, 925925, 926926, 927927, 928928, 929929, 930930, 931931, 932932, 933933, 934934, 935935, 936936, 937937, 938938, 939939, 940940, 941941, 942942, 943943, 944944, 945945, 946946, 947947, 948948, 949949, 950950, 951951, 952952, 953953, 954954, 955955, 956956, 957957, 958958, 959959, 960960, 961961, 962962, 963963, 964964, 965965, 966966, 967967, 968968, 969969, 970970, 971971, 972972, 973973, 974974, 975975, 976976, 977977, 978978, 979979, 980980, 981981, 982982, 983983, 984984, 985985, 986986, 987987, 988988, 989989, 990990]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[73; 99, 2]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9
+@@@@@@@@@@@@@@@@@@@@
+Let's check 8
+Invalid IDS = [77, 99, 88]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[100; 111, 3]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+Invalid IDS = [111]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[416063; 479542, 6]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4
+@@@@@@@@@@@@@@@@@@@@
+Let's check 41
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 47
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 42
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 43
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 44
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 4
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 45
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 46
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 416
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 1
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 479
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 7
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 417
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 1
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 418
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 1
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 419
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 1
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 420
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 2
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 421
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 2
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 422
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 2
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 423
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 2
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 424
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 2
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 425
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 2
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 426
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 2
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 427
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 2
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 428
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 2
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 429
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 2
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 430
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 3
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 431
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 3
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 432
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 3
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 433
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 3
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 434
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 3
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 435
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 3
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 436
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 3
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 437
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 3
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 438
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 3
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 439
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 3
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 440
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 4
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 441
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 4
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 442
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 4
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 443
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 4
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 444
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 4
+digit = 4
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 445
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 4
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 446
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 4
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 447
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 4
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 448
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 4
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 449
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 4
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 450
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 5
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 451
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 5
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 452
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 5
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 453
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 5
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 454
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 5
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 455
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 5
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 456
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 457
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 5
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 458
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 5
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 459
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 5
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 460
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 6
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 461
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 6
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 462
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 6
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 463
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 6
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 464
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 6
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 465
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 466
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 6
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 467
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 6
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 468
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 6
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 469
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 6
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 470
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 7
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 471
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 7
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 472
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 7
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 473
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 7
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 474
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 7
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 475
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 7
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 476
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 7
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 477
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 7
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 478
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 3
+digit = 4
+digit = 7
+digit = 8
+all_the_same = false
+Invalid IDS = [444444, 474747, 424242, 434343, 454545, 464646, 416416, 479479, 417417, 418418, 419419, 420420, 421421, 422422, 423423, 424424, 425425, 426426, 427427, 428428, 429429, 430430, 431431, 432432, 433433, 434434, 435435, 436436, 437437, 438438, 439439, 440440, 441441, 442442, 443443, 445445, 446446, 447447, 448448, 449449, 450450, 451451, 452452, 453453, 454454, 455455, 456456, 457457, 458458, 459459, 460460, 461461, 462462, 463463, 464464, 465465, 466466, 467467, 468468, 469469, 470470, 471471, 472472, 473473, 474474, 475475, 476476, 477477, 478478]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[596; 934, 3]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7
+@@@@@@@@@@@@@@@@@@@@
+Let's check 8
+Invalid IDS = [666, 777, 888]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[32825; 52204, 5]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 3
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4
+Invalid IDS = [33333, 44444]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[97951700; 98000873, 8]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9
+@@@@@@@@@@@@@@@@@@@@
+Let's check 97
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 98
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9795
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 4
+digit = 9
+digit = 7
+digit = 9
+digit = 5
+all_the_same = false
+Period that I'm checking: 97 of 2 digits!
+how_many_periods = 2
+digit = 9
+digit = 9
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9800
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 4
+digit = 9
+digit = 8
+digit = 0
+digit = 0
+all_the_same = false
+Period that I'm checking: 98 of 2 digits!
+how_many_periods = 2
+digit = 9
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9796
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 4
+digit = 9
+digit = 7
+digit = 9
+digit = 6
+all_the_same = false
+Period that I'm checking: 97 of 2 digits!
+how_many_periods = 2
+digit = 9
+digit = 9
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9797
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 4
+digit = 9
+digit = 7
+digit = 9
+digit = 7
+all_the_same = false
+Period that I'm checking: 97 of 2 digits!
+how_many_periods = 2
+digit = 9
+digit = 9
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9798
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 4
+digit = 9
+digit = 7
+digit = 9
+digit = 8
+all_the_same = false
+Period that I'm checking: 97 of 2 digits!
+how_many_periods = 2
+digit = 9
+digit = 9
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9799
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 4
+digit = 9
+digit = 7
+digit = 9
+digit = 9
+all_the_same = false
+Period that I'm checking: 97 of 2 digits!
+how_many_periods = 2
+digit = 9
+digit = 9
+all_the_same = true
+Invalid IDS = [97979797]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[18335; 27985, 5]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 2
+Invalid IDS = [22222]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[70203; 99999, 5]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9
+@@@@@@@@@@@@@@@@@@@@
+Let's check 8
+Invalid IDS = [77777, 99999, 88888]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[100000; 100692, 6]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 10
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 10
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 100
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 0
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 100
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 0
+digit = 0
+all_the_same = false
+Invalid IDS = [100100]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[8470; 9999, 4]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 8
+@@@@@@@@@@@@@@@@@@@@
+Let's check 9
+@@@@@@@@@@@@@@@@@@@@
+Let's check 84
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 2
+digit = 8
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 99
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 9
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 85
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 2
+digit = 8
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 86
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 2
+digit = 8
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 87
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 2
+digit = 8
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 88
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 2
+digit = 8
+digit = 8
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 89
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 2
+digit = 8
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 90
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 91
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 92
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 93
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 94
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 95
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 96
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 97
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 98
+Period that I'm checking: 9 of 1 digits!
+how_many_periods = 2
+digit = 9
+digit = 8
+all_the_same = false
+Invalid IDS = [8888, 9999, 8484, 8585, 8686, 8787, 8989, 9090, 9191, 9292, 9393, 9494, 9595, 9696, 9797, 9898]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[10000; 11844, 5]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+Invalid IDS = [11111]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[3687495840; 3687599608, 10]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 3
+@@@@@@@@@@@@@@@@@@@@
+Let's check 3
+@@@@@@@@@@@@@@@@@@@@
+Let's check 36
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 36
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 36874
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 5
+digit = 3
+digit = 6
+digit = 8
+digit = 7
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 36875
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 5
+digit = 3
+digit = 6
+digit = 8
+digit = 7
+digit = 5
+all_the_same = false
+Invalid IDS = [3687536875]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[4861; 8174, 4]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4
+@@@@@@@@@@@@@@@@@@@@
+Let's check 8
+@@@@@@@@@@@@@@@@@@@@
+Let's check 5
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 7
+@@@@@@@@@@@@@@@@@@@@
+Let's check 48
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 81
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 2
+digit = 8
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 49
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 50
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 51
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 52
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 53
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 54
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 55
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 5
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 56
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 57
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 58
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 59
+Period that I'm checking: 5 of 1 digits!
+how_many_periods = 2
+digit = 5
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 60
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 61
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 62
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 63
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 64
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 65
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 66
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 6
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 67
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 68
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 69
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 70
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 71
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 72
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 73
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 74
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 75
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 76
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 77
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 7
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 78
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 79
+Period that I'm checking: 7 of 1 digits!
+how_many_periods = 2
+digit = 7
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 80
+Period that I'm checking: 8 of 1 digits!
+how_many_periods = 2
+digit = 8
+digit = 0
+all_the_same = false
+Invalid IDS = [5555, 6666, 7777, 4949, 5050, 5151, 5252, 5353, 5454, 5656, 5757, 5858, 5959, 6060, 6161, 6262, 6363, 6464, 6565, 6767, 6868, 6969, 7070, 7171, 7272, 7373, 7474, 7575, 7676, 7878, 7979, 8080]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[67476003; 67593626, 8]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 67
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 67
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 2
+digit = 6
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6747
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 4
+digit = 7
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6759
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 5
+digit = 9
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6748
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 4
+digit = 8
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6749
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 4
+digit = 9
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6750
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 5
+digit = 0
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6751
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 5
+digit = 1
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6752
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 5
+digit = 2
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6753
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 5
+digit = 3
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6754
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 5
+digit = 4
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6755
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 5
+digit = 5
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6756
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 5
+digit = 6
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6757
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 5
+digit = 7
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6758
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 4
+digit = 6
+digit = 7
+digit = 5
+digit = 8
+all_the_same = false
+Period that I'm checking: 67 of 2 digits!
+how_many_periods = 2
+digit = 6
+digit = 5
+all_the_same = false
+Invalid IDS = [67476747, 67486748, 67496749, 67506750, 67516751, 67526752, 67536753, 67546754, 67556755, 67566756, 67576757, 67586758]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[2492; 4717, 4]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 2
+@@@@@@@@@@@@@@@@@@@@
+Let's check 4
+@@@@@@@@@@@@@@@@@@@@
+Let's check 3
+@@@@@@@@@@@@@@@@@@@@
+Let's check 24
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 47
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 25
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 26
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 27
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 28
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 29
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 30
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 31
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 32
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 33
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 3
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 34
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 35
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 36
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 37
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 38
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 39
+Period that I'm checking: 3 of 1 digits!
+how_many_periods = 2
+digit = 3
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 40
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 41
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 42
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 43
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 44
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 4
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 45
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 46
+Period that I'm checking: 4 of 1 digits!
+how_many_periods = 2
+digit = 4
+digit = 6
+all_the_same = false
+Invalid IDS = [4444, 3333, 2525, 2626, 2727, 2828, 2929, 3030, 3131, 3232, 3434, 3535, 3636, 3737, 3838, 3939, 4040, 4141, 4242, 4343, 4545, 4646]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[1442; 2129, 4]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 2
+@@@@@@@@@@@@@@@@@@@@
+Let's check 14
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 21
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 15
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 16
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 17
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 18
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 19
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 20
+Period that I'm checking: 2 of 1 digits!
+how_many_periods = 2
+digit = 2
+digit = 0
+all_the_same = false
+Invalid IDS = [2121, 1515, 1616, 1717, 1818, 1919, 2020]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[102962; 121710, 6]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 10
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 12
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 11
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 2
+digit = 1
+digit = 1
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 102
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 0
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 121
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 2
+digit = 1
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 103
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 0
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 104
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 0
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 105
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 0
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 106
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 0
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 107
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 0
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 108
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 0
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 109
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 0
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 110
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 1
+digit = 0
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 111
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 1
+digit = 1
+all_the_same = true
+@@@@@@@@@@@@@@@@@@@@
+Let's check 112
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 1
+digit = 2
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 113
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 1
+digit = 3
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 114
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 1
+digit = 4
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 115
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 1
+digit = 5
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 116
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 1
+digit = 6
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 117
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 1
+digit = 7
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 118
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 1
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 119
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 1
+digit = 9
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 120
+Period that I'm checking: 1 of 1 digits!
+how_many_periods = 3
+digit = 1
+digit = 2
+digit = 0
+all_the_same = false
+Invalid IDS = [111111, 121212, 121121, 103103, 104104, 105105, 106106, 107107, 108108, 109109, 110110, 112112, 113113, 114114, 115115, 116116, 117117, 118118, 119119, 120120]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[628612213; 628649371, 9]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 6
+@@@@@@@@@@@@@@@@@@@@
+Let's check 628
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 2
+digit = 8
+all_the_same = false
+@@@@@@@@@@@@@@@@@@@@
+Let's check 628
+Period that I'm checking: 6 of 1 digits!
+how_many_periods = 3
+digit = 6
+digit = 2
+digit = 8
+all_the_same = false
+Invalid IDS = [628628628]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[1064602; 1138912, 7]
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+@@@@@@@@@@@@@@@@@@@@
+Let's check 1
+Invalid IDS = [1111111]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Total Sum = 13187173961
